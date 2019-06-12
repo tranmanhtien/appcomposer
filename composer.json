@@ -1,0 +1,18 @@
+{
+    "name": "tien/appcomposerdemo",
+    "description": "demo app composer",
+    "type": "project",
+    "require": {
+        "dompdf/dompdf": "^0.8.3",
+        "swiftmailer/swiftmailer": "^6.2",
+        "monolog/monolog": "^1.24"
+    },
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "tien dx",
+            "email": "tranmanhtien410@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
